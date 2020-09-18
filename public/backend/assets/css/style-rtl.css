@@ -1,0 +1,31 @@
+/*================================================================================
+	Item Name: Robust - Responsive Admin Template
+	Version: 2.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+A FILE FOR RTL SUPPORT RELATED ONLY
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+
+
+.header-navbar .navbar-header .navbar-brand .brand-logo{
+	width:100px;
+}
+
+.pad0{
+	padding:0 !important;
+}
+.pad1{
+	padding:0 1rem !important;
+}
+html body .content .content-wrapper{
+	padding:0 2.2rem;
+}
+.hide{
+	display:none;
+}
